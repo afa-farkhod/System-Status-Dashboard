@@ -27,7 +27,9 @@ chmod -R 700 ./path/to/System-Status-Dasshboard
 
 ### Ececution:
 
-- Run the script from the terminal: ./main.sh
+- Run the script from the terminal: `./main.sh`
+
+![image](https://github.com/afa-farkhod/System-Status-Dashboard/assets/145099876/e48c9e00-17b7-4fe6-b6d1-cb44b70d87c2)
 
 
 ## Reference
