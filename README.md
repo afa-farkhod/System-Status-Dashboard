@@ -19,7 +19,11 @@ Script that collects and displays information about system health, CPU usage, me
 
 - OS: `Linux`
 - Required Tools: You need `bash`, `awk`, `top`, `df`, and possibly `ps`.
-- Permissions: Ensure script has execute permissions: `chmod -R 700 ./path/to/System-Status-Dasshboard`
+- Permissions: Ensure script has execute permissions:
+
+```
+chmod -R 700 ./path/to/System-Status-Dasshboard
+```
 
 ## Reference
 
