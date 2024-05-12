@@ -1,6 +1,11 @@
 # System-Status-Dashboard
 Script that collects and displays information about system health, CPU usage, memory consumption, disk space and running processes
 
+### Project Description: 
+
+- Build a script that collects and displays information about system health, including CPU usage, memory consumption, disk space, and running processes.
+- The script generates a dashboard-like output in the terminal
+- Skills Demonstrated: System monitoring, data collection, and reporting.
 
 ## Reference
 
