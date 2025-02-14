@@ -25,7 +25,7 @@ Script that collects and displays information about system health, CPU usage, me
 chmod -R 700 ./path/to/System-Status-Dasshboard
 ```
 
-### Ececution:
+### Execution:
 
 - Run the script from the terminal: `./main.sh`
 
